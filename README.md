@@ -1,4 +1,4 @@
 # practical2
 Learning phase
 <br>
-by durgesh
+by durgesh (prajapati)
